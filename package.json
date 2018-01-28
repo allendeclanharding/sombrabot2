@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "Sombra Core Bot",
   "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
   "author": "Allen",
   "license": "ISC",
   "dependencies": {
