@@ -1,0 +1,11 @@
+{
+  "name": "sombra",
+  "version": "0.0.1",
+  "description": "Sombra Core Bot",
+  "main": "bot.js",
+  "author": "Allen",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.0"
+  }
+}
